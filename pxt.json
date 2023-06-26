@@ -1,5 +1,6 @@
 {
     "name": "Waste mngt - Recyclables & non recyclables SLS",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
